@@ -1,23 +1,23 @@
 [
   {
     "Type": "Task",
-    "Name": "Новая заметка",
-    "Content": "dsadsadsadsadsa",
-    "Left": 664,
-    "Top": 93
+    "Name": "New Note 2",
+    "Content": "Some other text",
+    "Left": 464,
+    "Top": 46
   },
   {
     "Type": "TaskGroup",
-    "Name": "Новая группа",
-    "Left": 336,
-    "Top": 112,
+    "Name": "New Group",
+    "Left": 199,
+    "Top": 104,
     "Children": [
       {
         "Type": "Task",
-        "Name": "Новая заметка",
-        "Content": null,
+        "Name": "New Note 1",
+        "Content": "Some text",
         "Left": 10,
-        "Top": 125
+        "Top": 20
       }
     ]
   }
