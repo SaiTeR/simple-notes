@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSg6zd9ise5yn+WmOwnqUprJ+ncmmqi3H0BJBeTf0tKoyS60uKRqlP+0EgTmYLiBnvitCd81Fg3vvfvxiK7HIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRDen\\OneDrive\\Универ\\3 курс\\2 семестр\\ООАП\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRDen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
