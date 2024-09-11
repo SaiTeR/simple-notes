@@ -16,3 +16,7 @@ Simple Notes is a lightweight note-taking application built using C# and Windows
 * **Windows Forms (.NET 8)**
 * **JSON Serialization**
 
+## Project demonstration
+![Image 1](images/img1.png)
+![Image 2](images/img2.png)
+![Image 3](images/img3.png)
